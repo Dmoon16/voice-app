@@ -1,4 +1,4 @@
-# My Voice
+# Voice App
 An Android app helps disabled people. The project's aim is to help disabled people to able to communicate more easily with people who do not know sign language. Disabled people can play the ready sentences in the screen.
 
 ## Development
